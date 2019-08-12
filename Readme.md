@@ -1,1 +1,1 @@
-The repo contains only the programming assignments of 8 weeks. It doesnt include the solutions to the quizes. The total program length is of 12 weeks.
+The repo contains only the programming assignments of 8 weeks. It doesnt include the solutions to the quizes. The total program length is of 12 weeks. Recommend to follow atleast uptil the 5th week to get basic concepts of ML 
